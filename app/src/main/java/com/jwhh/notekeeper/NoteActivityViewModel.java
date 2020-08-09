@@ -28,6 +28,3 @@ public class NoteActivityViewModel extends ViewModel {
 }
 
 
-
-
-
